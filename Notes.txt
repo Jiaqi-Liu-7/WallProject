@@ -1,0 +1,7 @@
+Steps to save project on GitHub
+
+git add .
+
+git commit -m "Insert message here"
+
+git push origin master
